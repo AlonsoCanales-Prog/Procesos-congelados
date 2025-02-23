@@ -16,7 +16,7 @@ Utiliza hilos `threading` para ejecutarse en segundo plano, asegurando que el mo
 ---
 
 # Evidencia de funcionamiento
-![procesos-congelados](img/evidencia-23-02-25.png)
+![procesos-congelados](img/Evidencia-23-02-25.png)
 
 # Requisitos
 - Python 3.12 
