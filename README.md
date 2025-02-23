@@ -15,7 +15,8 @@ Utiliza hilos `threading` para ejecutarse en segundo plano, asegurando que el mo
 
 ---
 
-# Instalación y Uso
+# Evidencia de funcionamiento
+![procesos-congelados](img/evidencia-23-02-25.png)
 
 # Requisitos
 - Python 3.12 
@@ -25,4 +26,8 @@ Utiliza hilos `threading` para ejecutarse en segundo plano, asegurando que el mo
 Clona el repositorio o descarga el script:  
 ```bash
 git clone https://github.com/AlonsoCanales-Prog/Procesos-congelados.git
+
+
+
+
 
